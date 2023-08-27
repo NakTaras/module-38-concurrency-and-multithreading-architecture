@@ -64,7 +64,7 @@ Implement message bus using Producer-Consumer pattern.
 3.	Implement consumer, which will consume messages on specific topic and log to the console message payload.
 4.	(Optional) Application should create several consumers and producers that run in parallel.
 
-### TASK 4 (Use cache from effective java module) (smth like poll() from ArrayBlockingQueue + look at Conditions from ArrayBlockingQueue) можна обгорнути арей блокінд кю
+### TASK 4 (Use cache from effective java module) (smth like poll() from ArrayBlockingQueue + look at Conditions from ArrayBlockingQueue) можна обгорнути ArrayBlockingQueue
 
 **Cost: 1 points.**
 
